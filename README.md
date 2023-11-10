@@ -41,5 +41,5 @@ streamlit run main.py
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
