@@ -38,3 +38,8 @@ After all these steps run the command
 streamlit run main.py
 ```
 
+
+## Screenshots
+
+![App Screenshot](screenshot.png)
+
